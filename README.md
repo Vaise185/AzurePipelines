@@ -1,2 +1,1 @@
-# AzurePipelines
-This is just a demo piece of project for working in Azure Pipelines.
+[![Build Status](https://dev.azure.com/vaighaiselvan185/PipelineLearning/_apis/build/status%2FVaise185.AzurePipelines?branchName=main)](https://dev.azure.com/vaighaiselvan185/PipelineLearning/_build/latest?definitionId=5&branchName=main)
